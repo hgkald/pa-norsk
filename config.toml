@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Hana på norsk"
 theme = "strange-case"
 publishDir = "docs"
+googleAnalytics = "UA-150529309-3"
 
 [params]
 	colorScheme = "scheme-darkbrown"
