@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hana på norsk</title>
+    <link>https://hgonzal.github.io/pa-norsk/</link>
+    <description>Recent content on Hana på norsk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://hgonzal.github.io/pa-norsk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Om bloggen</title>
+      <link>https://hgonzal.github.io/pa-norsk/about/</link>
+      <pubDate>Fri, 08 Jan 2021 22:29:24 +0100</pubDate>
+      
+      <guid>https://hgonzal.github.io/pa-norsk/about/</guid>
+      <description>Velkommen. Jeg heter Hana, og denne er bloggen min. Jeg lærer meg norsk, og dette er mitt sted til å skrive og øve skriftlig norsk.
+Førstespråket mitt er engelsk. Jeg begynte mitt første norskkurs i februar 2020. Syv måneder senere i september flyttet jeg til Norge, og om vinteren 2020 tok jeg A2-B1 norskprøven (og har ikke fått resultatene ennå).
+Her skal det finnes personlige meninger og hva som helst synes jeg er interessant.</description>
+    </item>
+    
+  </channel>
+</rss>

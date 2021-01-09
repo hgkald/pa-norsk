@@ -1,0 +1,12 @@
+baseURL = "https://hgonzal.github.io/pa-norsk/"
+languageCode = "en-us"
+title = "Hana på norsk"
+theme = "strange-case"
+publishDir = "docs"
+
+[params]
+	colorScheme = "scheme-darkbrown"
+	DateFormat = "2 Jan 2006"
+	description = ""
+	sidebarDescription = ""
+	sidebarFreeText = ""
