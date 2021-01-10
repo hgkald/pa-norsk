@@ -28,19 +28,26 @@
     "menu": {
         "main": [
             {
+                "identifier": "Om bloggen",
+                "name": "Om bloggen",
+                "title": "Om bloggen",
+                "url": "/about/",
+                "weight": 0
+            },
+            {
                 "identifier": "categories",
-                "name": "Categories Section from Menu",
+                "name": "Kategorier",
                 "title": "Categories section",
                 "url": "/categories/",
-                "weight": -110
-            }
+                "weight": 10
+	    }
         ]
     },
 
     "params": {
         "Title": "Hana på norsk",
         "Tagline": "",
-	"Description": "En enkel språkblogg",
+	"Description": "Et sted å øve skriflig norsk",
         "Author": "Hana",
         "DateForm": "02. jan 2006",
         "mainSections": [
