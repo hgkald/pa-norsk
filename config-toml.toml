@@ -1,7 +1,7 @@
-baseURL = "https://hgonzal.github.io/pa-norsk/"
+baseURL = ""
 languageCode = "en-us"
 title = "Hana på norsk"
-theme = "strange-case"
+theme = "lanyon-hugo"
 publishDir = "docs"
 googleAnalytics = "UA-150529309-3"
 

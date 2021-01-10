@@ -1,0 +1,55 @@
+{
+    "contentdir": "content",
+    "layoutdir": "layouts",
+    "publishdir": "docs",
+    "theme": "lanyon-hugo",
+
+    "builddrafts": false,
+
+    "baseurl": "https://hgonzal.github.io/pa-norsk",
+    "canonifyurls": true,
+    "permalinks": {
+        "post": ":year/:month/:day/:title/",
+        "fixed": ":title/"
+    },
+
+    "markup": {
+        "goldmark": {
+            "extensions": {
+                "typographer": true
+            },
+            "renderer": {
+                "unsafe": true
+            }
+        }
+    },
+
+    "pygmentsuseclasses": true,
+
+    "menu": {
+        "main": [
+            {
+                "identifier": "categories",
+                "name": "Categories Section from Menu",
+                "title": "Categories section",
+                "url": "/categories/",
+                "weight": -110
+            }
+        ]
+    },
+
+    "params": {
+        "Title": "Hana på norsk",
+        "Tagline": "",
+        "Author": "Hana",
+        "DateForm": "02. jan 2006",
+        "mainSections": [
+            "posts"
+        ],
+        "Github": {
+            "Url": "https://hgonzal.github.io/pa-norsk",
+            "Head": "master"
+        },
+	"disableFonts": false
+    }
+}
