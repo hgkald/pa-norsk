@@ -9,7 +9,6 @@
     "baseurl": "https://hgonzal.github.io/pa-norsk",
     "canonifyurls": true,
     "permalinks": {
-        "post": ":year/:month/:day/:title/",
         "fixed": ":title/"
     },
 
@@ -41,10 +40,11 @@
     "params": {
         "Title": "Hana på norsk",
         "Tagline": "",
+	"Description": "En enkel språkblogg",
         "Author": "Hana",
         "DateForm": "02. jan 2006",
         "mainSections": [
-            "posts"
+            "post"
         ],
         "Github": {
             "Url": "https://hgonzal.github.io/pa-norsk",
