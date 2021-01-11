@@ -2,6 +2,7 @@
 title: "Om bloggen"
 date: 2021-01-08T22:29:24+01:00
 draft: false
+slug: "om-bloggen"
 ---
 
 Velkommen. Jeg heter Hana, og denne er bloggen min. Jeg lærer meg norsk, og dette er mitt sted til å skrive og øve skriftlig norsk. 

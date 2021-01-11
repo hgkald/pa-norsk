@@ -27,20 +27,25 @@
 
     "pygmentsuseclasses": true,
 
+   "taxonomies": {
+      "category": "kategorier",
+      "tag": "tags"
+   },
+
     "menu": {
         "main": [
             {
                 "identifier": "Om bloggen",
                 "name": "Om bloggen",
                 "title": "Om bloggen",
-                "url": "/about/",
+                "url": "/om-bloggen/",
                 "weight": 0
             },
             {
-                "identifier": "categories",
+                "identifier": "kategorier",
                 "name": "Kategorier",
-                "title": "Categories section",
-                "url": "/categories/",
+                "title": "Kategorier",
+                "url": "/kategorier/",
                 "weight": 10
 	    }
         ]
