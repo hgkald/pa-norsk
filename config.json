@@ -3,8 +3,10 @@
     "layoutdir": "layouts",
     "publishdir": "docs",
     "theme": "lanyon-hugo",
+    "languageCode": "nb-NO",
 
     "builddrafts": false,
+    "enableGitInfo": true,
 
     "baseurl": "https://hgonzal.github.io/pa-norsk",
     "canonifyurls": true,
