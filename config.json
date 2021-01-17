@@ -62,6 +62,7 @@
         ],
         "Github": {
             "Url": "https://hgonzal.github.io/pa-norsk",
+	    "PostUrl": "https://github.com/hgonzal/pa-norsk/blob/master/content/post/",
             "Head": "master"
         },
 	"disableFonts": false
