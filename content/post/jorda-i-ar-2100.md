@@ -6,7 +6,7 @@ tags:
 - norskkurs
 - scifi
 - Her på berget
-category:
+kategorier:
 - Oppdikt
 ---
 
