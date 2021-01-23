@@ -57,13 +57,13 @@
         "Tagline": "",
 	"Description": "Et sted å øve skriflig norsk",
         "Author": "Hana",
-        "DateForm": "02. jan 2006",
+        "DateForm": "02.01.2006",
         "mainSections": [
             "post"
         ],
         "Github": {
             "Url": "https://hgonzal.github.io/pa-norsk",
-	    "PostUrl": "https://github.com/hgonzal/pa-norsk/blob/master/content/post/",
+	    "PostUrl": "https://github.com/hgonzal/pa-norsk/commits/master/content/post/",
             "Head": "master"
         },
 	"disableFonts": false
