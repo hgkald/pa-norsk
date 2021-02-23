@@ -7,7 +7,7 @@ tags:
 - scifi
 - Her på berget
 kategorier:
-- Oppdikt
+- Fiksjon
 ---
 
 *Denne teksten er fra en oppgave som heter "Jorda i år 2100". Jeg måtte "Skriv en liten historie og fortell hvordan du ser for deg jorda om cirka hundre år."*
