@@ -8,7 +8,7 @@
     "builddrafts": false,
     "enableGitInfo": true,
 
-    "baseurl": "https://hgonzal.github.io/pa-norsk",
+    "baseurl": "https://hanapanorsk.com",
     "canonifyurls": true,
     "permalinks": {
         "fixed": ":title/"
