@@ -24,6 +24,7 @@ Flere sosiale medier har aldersgrenser, men ikke alle. Mobbing på nett har blit
 ## Teksten min
 I de siste årene har sosiale medier blitt en stor del av samfunnet og våre forhold med hverandre. Men det kan bli farlig for barn og lett misbrukt. Etter min mening er det viktig å begrense bruken av sosiale medier for barn. Selv om sosiale medier kan være en stor del av våre sosiale liv, bør det bli ikke helt sånn, spesielt for de unge.
 
+<!--more-->
 For det første er det viktig å være klar over hva barna gjør på nettet. Mobbing på nett er et alvorlig problem som kan skade et barns selvtillit og forholdene mellom barn. Men slik bør det ikke være, og vi kan unngå disse problemene ved begrensning og overvåkning av barn når de bruker nettet og sosiale medier. En forelder kan for eksempel stille spørsmål til barnet sitt om hva er det som de gjør på sosiale medier. De kan dessuten utelukke tilgang til visse nettsider som ikke passer for barn.
 
 For det andre mener jeg at det er viktig å sørge for et sunt sosialt miljø for barn i tillegg til sosiale medier. Sosiale medier bør være en liten del av et barns sosiale liv. For eksempel skole, musikk, sport, kunst eller andre aktiviteter bør være hvordan barn mest sosialiserer med hverandre. Selvfølgelig kan de bruke sosiale medier i tillegg, men det må ikke være nødvendig for å få venner og bli med på aktiviteter med dem.

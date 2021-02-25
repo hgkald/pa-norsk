@@ -12,6 +12,7 @@ For rundt en måned siden fikk jeg min første katt. Hun var tolv uker gammel, 1
 
 De kalte henne Rhaegal, som er et navn på en drage fra TV-showet Game of Thrones. Hun er ganske vill så det var egentlig et godt navn, men vi ville gi henne et navn selv.
 
+<!--more-->
 Vi lette etter ett som hørte viking-aktig eller norrønt ut. Samboeren min anbefalte «Edda», som er navnet på en gammel bok med sagaer (vikinghistorier). «Edda» hørtes riktig ut - vi syntes at hun så ut som en «Edda» - og så Rhaegal ble Edda.
 
 Men selvfølgelig var hun den samme katten. Fra begynnelsen var hun en nysgjerrig og aktiv katt, og de første tingene hun gjorde var å oppdage og å lukte alt i leiligheten. Fosterhjemmet ga oss hennes favorittleker, som var noen blå fjær til en fiskestangleke. Vi lekte med henne, og raskt ble hun komfortabel med oss.
