@@ -336,6 +336,7 @@ a.sidebar-nav-item:focus {
   margin-bottom: 1rem;
   color: #9a9a9a;
   font-size: 75%;
+}
 
 /* Related posts */
 .related {
@@ -569,11 +570,9 @@ a.pagination-item:hover {
 }
 
 
-
 /* Styles for staticman fields*/
 .staticman-comments {
     margin-bottom: 2rem;
-    background-color: red;
 }
 .staticman-comments .comment-author, .comment-content, .comment-timestamp {
     margin-top: 0;

@@ -6,7 +6,16 @@
     <description>Recent content in Kategorier on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nb-NO</language>
-    <lastBuildDate>Tue, 23 Feb 2021 14:53:08 +0100</lastBuildDate><atom:link href="https://www.hanapanorsk.com/kategorier/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Feb 2021 19:23:00 +0100</lastBuildDate><atom:link href="https://www.hanapanorsk.com/kategorier/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test</title>
+      <link>https://www.hanapanorsk.com/kategorier/test/</link>
+      <pubDate>Fri, 26 Feb 2021 19:23:00 +0100</pubDate>
+      
+      <guid>https://www.hanapanorsk.com/kategorier/test/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Norskprøven</title>
       <link>https://www.hanapanorsk.com/kategorier/norskpr%C3%B8ven/</link>
