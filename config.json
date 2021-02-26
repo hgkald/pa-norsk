@@ -66,6 +66,10 @@
 	    "PostUrl": "https://github.com/hgonzal/pa-norsk/commits/master/content/post/",
             "Head": "master"
         },
-	"disableFonts": false
+	"disableFonts": false,
+        "staticman": {
+            "api": "https://hana-pa-norsk-comments.herokuapp.com/v3/entry/github/hgonzal/pa-norsk-comments/main/comments"
+        }
     }
+
 }
