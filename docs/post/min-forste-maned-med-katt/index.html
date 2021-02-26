@@ -101,29 +101,118 @@
       kategorisert som: Hverdagen 
       <br>tagget:  <a href= "https://www.hanapanorsk.com/tags/katt">#katt</a>
     
-  </span><hr>
+  </span>
+  
+  
+
+  <hr>
   <h2>Kommentarer</h2>
-  <div id="disqus_thread"></div>
+  
+<aside aria-label="note" class="note">
+    <section id="comment-thankyou" style="display: none; margin-left: 5px"> 
+        Thank you for your comment, it will be displayed once it has been approved!
+    </section>
+</aside>
 <script type="application/javascript">
-    var disqus_config = function () {
-    
-    
-    
-    };
-    (function() {
-        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
-            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
-            return;
-        }
-        var d = document, s = d.createElement('script'); s.async = true;
-        s.src = '//' + "hanapanorsk" + '.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
+    if (/comment-thankyou/.test(window.location.href)) {
+        document.getElementById('comment-thankyou').style.display = 'block';
+    }else{
+        document.getElementById('comment-thankyou').style.display = 'none';
+    }
 </script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-  </div>
+
+<button id="staticman-button" onclick="showComments()">Show comments</button>
+
+<section id="staticman-comments" class="js-comments staticman-comments">
+    <script type="application/javascript">
+          var onloadCallbackCaptcha = function(sitekey) {
+    grecaptcha.render('div-recaptcha');
+  };
+
+function showComments() {
+    // Remove button
+    var staticmanButton = document.getElementById('staticman-button');
+    staticmanButton.parentNode.removeChild(staticmanButton); 
+    // Un-hide comments
+    var staticmanComments = document.getElementById('staticman-comments');
+    staticmanComments.style.display = 'block'; 
+    // load recaptcha script (delete if not using recaptcha)
+    var script = document.createElement('script');
+    script.setAttribute('src', 'https://www.google.com/recaptcha/api.js?onload=onloadCallbackCaptcha&render=explicit');
+    document.head.appendChild(script);
+}
+
+function checkForm(form){
+
+    if(typeof(grecaptcha) === "undefined"){
+        form.warningComment.style.display = 'block'; 
+        form.warningComment.innerText = "There was a problem loading the reCaptcha so it is not possible to submit a comment at the moment";
+        return false;
+    }
+    else if(grecaptcha.getResponse() == ""){
+        form.warningComment.style.display = 'block'; 
+        form.warningComment.innerText = "Please confirm you are not a robot :)";
+        return false;
+    }
+    else if(form.yourname.value == ""){
+        form.warningComment.style.display = 'block'; 
+        form.warningComment.innerText = "Please type your name";
+        return false;
+    }
+    else if(form.yourcomment.value == ""){
+        form.warningComment.style.display = 'block'; 
+        form.warningComment.innerText = "Please type a comment";
+        return false;
+    }
+    else{
+        form.submitButton.disabled = true;
+        form.warningComment.style.display = 'none'; 
+        form.warningComment.innerText = "";
+        form.submitButton.innerText = "Sending...";
+        return true;
+    }
+    
+}
+
+      </script>
+      <noscript>Enable JavaScript to view comments.</noscript>
+
+    
+  
+    
+      
+      
+        <h3>No comments</h3>
+      
+  
+  
+      
+      
+    
+  
+  
+  
+  <form class="js-form form" method="post" action="https://hana-pa-norsk-comments.herokuapp.com/v3/entry/github/hgonzal/pa-norsk-comments/main/comments" onsubmit="return checkForm(this);">
+    <fieldset>
+        <input type="hidden" name="options[redirect]" value="https://www.hanapanorsk.com/post/min-forste-maned-med-katt/#comment-thankyou">
+        <input type="hidden" name="options[slug]" value="postmin-forste-maned-med-katt">
+        <input type="hidden" name="options[parent]" value="">
+    
+        
+        <label for="fields[name]">Name:</label>
+        <input name="fields[name]" id="yourname" type="text" placeholder="Your name"/>
+        <label for="fields[comment]">Comment:</label>
+        <textarea name="fields[comment]" id="yourcomment" placeholder="What are you thinking?"></textarea>
+        
+        <output id="warningComment"></output>
+        <button class="button" id="submitButton">Submit</button>
+    </fieldset>
+  </form>
+</section>
+
+
+
+</div>
 
       </div>
     </div>
