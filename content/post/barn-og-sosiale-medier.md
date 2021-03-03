@@ -7,8 +7,9 @@ tags:
 - sosiale medier
 - samfunnet
 - argumenterende tekst
-kategorier:
 - Norskprøven
+kategorier:
+- Prøveøvelse
 ---
 
 ## Innledning
