@@ -158,24 +158,24 @@ function checkForm(form){
     }
     else if(grecaptcha.getResponse() == ""){
         form.warningComment.style.display = 'block'; 
-        form.warningComment.innerText = "Please confirm you are not a robot :)";
+        form.warningComment.innerText = "Vennligst bekreft at du ikke er en robot. Please confirm you are not a robot :)";
         return false;
     }
     else if(form.yourname.value == ""){
         form.warningComment.style.display = 'block'; 
-        form.warningComment.innerText = "Please type your name";
+        form.warningComment.innerText = "Vennligst skriv navnet ditt eller et alias. Please type your name or alias.";
         return false;
     }
     else if(form.yourcomment.value == ""){
         form.warningComment.style.display = 'block'; 
-        form.warningComment.innerText = "Please type a comment";
+        form.warningComment.innerText = "Vennligst skriv en kommentar. Please type a comment.";
         return false;
     }
     else{
         form.submitButton.disabled = true;
         form.warningComment.style.display = 'none'; 
         form.warningComment.innerText = "";
-        form.submitButton.innerText = "Sending...";
+        form.submitButton.innerText = "Sender...";
         return true;
     }
     
