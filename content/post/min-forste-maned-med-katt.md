@@ -2,6 +2,9 @@
 title: "Min første måned med katt"
 date: 2021-01-17T22:51:47+01:00
 draft: false
+firstversion:
+  time: ~80
+  link: https://github.com/hgonzal/pa-norsk/blob/5f0424b52c4ddd82253e18402dc862de194acc08/content/post/min-forste-maned-med-katt.md
 tags:
 - katt
 kategorier:

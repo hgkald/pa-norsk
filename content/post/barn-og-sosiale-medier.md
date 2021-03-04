@@ -2,6 +2,9 @@
 title: "Barn og sosiale medier"
 date: 2021-02-23T14:53:08+01:00
 draft: false
+firstversion:
+  time: 57
+  link: https://github.com/hgonzal/pa-norsk/blob/84b6523802837df4b111fab4737550753ee6e4a0/content/post/barn-og-sosiale-medier.md
 tags:
 - barn
 - sosiale medier
@@ -9,7 +12,7 @@ tags:
 - argumenterende tekst
 - Norskprøven
 kategorier:
-- Prøveøvelse
+- Treningsoppgave
 ---
 
 ## Innledning

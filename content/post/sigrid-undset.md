@@ -2,11 +2,14 @@
 title: "Biografi: Sigrid Undset"
 date: 2021-03-03T14:05:26+01:00
 draft: false
+firstversion:
+  time: 46
+  link: https://github.com/hgonzal/pa-norsk/blob/0a741ddafceb141651c8ce81f21ebb5c0062ef45/content/post/sigrid-undset.md
 tags: 
 - biografi 
 - Her på berget
 kategorier:
-- Prøveøvelse
+- Treningsoppgave
 ---
 
 *Denne øvelsen er å skrive en sammenhengende tekst om Sigrid Undset. Jeg har fått en fil med noen stikkeord om henne og livet hennes. Nedover er teksten min fra informasjon i filen. Den første versjonen var skrevet på 46 minutter.*
