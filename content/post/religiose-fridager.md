@@ -4,7 +4,7 @@ date: 2021-03-04T18:42:53+01:00
 draft: false
 firstversion:
   time: 1t 15
-  link:
+  link: https://github.com/hgonzal/pa-norsk/blob/eba13abce7dc10b42cffce21c1c1d57fdfeab789/content/post/religiose-fridager.md
 tags:
 - argumenterende tekst
 - Norskprøven
