@@ -13,7 +13,25 @@
     "permalinks": {
         "fixed": ":title/"
     },
-    "disqusShortname": "hanapanorsk",
+
+    "googleAnalytics": "UA-150529309-3",
+    
+    "privacy": {
+        "googleAnalytics": {
+            "anonymizeIP": true,
+            "disable": false,
+            "respectDoNotTrack": true,
+            "useSessionStorage": true
+        },
+	"instagram": {
+            "disable": false,
+            "simple": true
+        },
+        "youtube": {
+            "disable": false,
+            "privacyEnhanced": true
+        }
+    },
 
     "markup": {
         "goldmark": {
