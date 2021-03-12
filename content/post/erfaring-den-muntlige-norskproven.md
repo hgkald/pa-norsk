@@ -1,25 +1,25 @@
 ---
-title: "Den muntlige norskprøven: Forberedelse og erfaring"
+title: "Den muntlige norskprøven: Forberedelse og erfaringen"
 date: 2021-03-12T14:33:36+01:00
 draft: false
 firstversion:
   time: ~2 timer
-  link:
+  link: https://github.com/hgonzal/pa-norsk/blob/588cc21ded500620b0f1a52afa5c1671bf27b07e/content/post/erfaring-den-muntlige-norskproven.md
 tags:
 - Norskprøven
 - studietips
 kategorier:
-- Dagbok
+- Norskframgang
 ---
 
-I går tok jeg den muntlige norskprøven for B1/B2-nivået. Det var min første gang å ta det, og jeg hadde mye angst. Men alt i alt synes jeg at det gikk greit nok. Nå må jeg vente en måned for å få resultatene. Målet mitt er å klar B2, og jeg har ikke peiling om jeg klarte det.
+I går tok jeg den muntlige norskprøven for B1/B2-nivået. Det var min første gang å ta det, og jeg hadde mye angst. Men alt i alt synes jeg at det gikk greit nok. Nå må jeg vente en måned for å få resultatene. Målet mitt er å klar B2, og jeg har ikke peiling om det er sånn.
 
-Mens jeg venter vil jeg beskrive erfaringen min med prøven, og hvordan jeg forberedt meg for den. Du kan hopp over teksten og se på de oppgavene med [denne lenken]({{< ref "erfaring-den-muntlige-norskproven.md#proven" >}}).  
+Mens jeg venter vil jeg beskrive erfaringen min med prøven, og hvordan jeg forberedt meg for den. Du kan hopp over teksten og se oppgavene fra prøven med [denne lenken]({{< ref "erfaring-den-muntlige-norskproven.md#proven" >}}).  
 
 <!--more-->
 ## Forbereding
 ### Bakgrunn  
-I desember tok jeg de skriftlige, lytte- og skriveprøvene for A2/B1-nivået. Jeg tok ikke den muntlige prøven fordi den koster ekstra penger, og jeg tok prøvene for det meste for å øve for B2-nivået. Da bodd jeg også bare fire måneder i Norge, og jeg var helt usikker på hvilket nivået var jeg.
+I desember tok jeg de skriftlige, lytte- og skriveprøvene for A2/B1-nivået. Jeg tok ikke den muntlige prøven fordi den koster ekstra, og jeg tok prøvene for det meste for å øve for B2-nivået. På den tiden bodd jeg også bare fire måneder i Norge, og jeg var helt usikker på hvilket nivået var jeg.
 
 Jeg lærte etter prøven i desember at lytteprøven var mest vanskelig for meg. Derfor fokusert meg etterpå med å høre på og snakke norsk så mest som mulig.  
 
@@ -28,9 +28,9 @@ Jeg er ganske heldig at samboeren min er flink med grammatikk og tålmodig med �
 
 Siden august i fjor hadde jeg allerede blitt med et norskkurs hos Folkeuniversitetet. Men i januar søkte jeg også på et norskkurs hos Lingu (på grunn av at jeg trodde at jeg ikke kunne fortsette med FU fordi kurset var fullt. Men jeg fått en plass og fant at jeg likte begge to kursene). 
 
-Samlet er kursene en god kombinasjon for meg, selv om de er ganske dyre. Lingu har mer samtaler, og FU har mer skrive- og lytteoppgaver. Begge fokuserer i grammatikk og handler om temaer som var nyttig for norskprøven, men timene var forskellige nok fra hverandre å være interresant.  
+Samlet er kursene en god kombinasjon for meg, selv om de er ganske dyre. Lingu har mer samtaler, og FU har mer skrive- og lytteoppgaver. Begge fokuserer i grammatikk og handler om temaer som er nyttig for norskprøven, men timene var forskellige nok fra hverandre å være interresant.  
 
-Likevel trengte meg mer muligheter til å øve. Heldigvis finnes det også språkkafeer som er gratis møter for å lære og øve en språk. I koronatiden finnes det ikke noen "fykisk" språkkafer i Oslo, med der finnes mange på nett.
+Likevel trengte meg mer muligheter til å øve. Heldigvis finnes det også språkkafeer som er gratis møter for å lære og øve en språk. I koronatiden finnes det ikke noen "fysisk" språkkafer i Oslo, med det finnes mange på nett.
 
 Derfor var denne timeplanen min i de siste ukene:
 
@@ -40,7 +40,7 @@ Derfor var denne timeplanen min i de siste ukene:
 | **13:30** Kafe (1t) | **17:00** Kafe (1t)   | **17:30** Kurs (3t)  | **17:30** Kafe (1t) |     |      |
 | **17:30** Kurs (3h) | **18:00** Kafe (1,5t) |     |      |     |     |
 
-Samlet gjorde jeg 23 timer per uke i det siste ukene bare for å lære norsk. I tillegg så jeg på norsk TV, hørte på [NRK Radio](https://radio.nrk.no/) og podkaster, så på [Karenses YouTube videoer](https://www.youtube.com/channel/UCbrUYR892qBNQyY3DEqfTBg) og bestemte at vi vil snakke bare norsk i hjemmet (som var 90% lykkes).
+Samlet gjorde jeg 23 timer per uke i det siste ukene bare for å lære norsk. I tillegg så jeg på norsk TV, hørte på [NRK Radio](https://radio.nrk.no/) og podkaster, så på [Karenses YouTube videoer](https://www.youtube.com/channel/UCbrUYR892qBNQyY3DEqfTBg) og bestemte at vi vil snakke bare norsk i hjemmet (som var 90% vellykkes).
 
 Var det nok for å klare B2? Jeg må vent en måned for å finne ut...
 
@@ -67,10 +67,10 @@ Vi fikk tre oppgaver å snakke om:
 
 De uttrykkene overfor er ikke nøyaktig, fordi vi kunne ikke ta med oss hva vi hadde skrevet ned eller ta på prøven.
 
-Jeg synes at jeg klarte de siste to oppgavene gode nok. Men den siste oppgaven var mer utfordrende, og jeg forstod ikke helt det siste oppfølgingsspørsmålet (men proktoren presisert litt for meg og jeg kunne gi et svar). Denne oppgaven var mest viktig for å klare B2.
+Jeg synes at jeg klarte de første to oppgavene gode nok. Men den siste oppgaven var mer utfordrende, og jeg forstod ikke helt det siste oppfølgingsspørsmålet (men proktoren presisert litt for meg og jeg kunne gi et svar). Denne oppgaven var mest viktig for å klare B2.
 
 ## Siste ord
 
 Det var nervepirrende, men jeg er glad at jeg er ferdig med denne prøven (for nå). Neste uke har jeg den lytte- og skriveprøvene. Jeg må bare skrive mer og se på TV litt for å forberede for det!
 
-Jeg føler meg mer selvsikker på norsk, og nå mener jeg er en god tid å finne en jobb eller å melde meg som frivillig. Jeg må søke for hva slags muligheter finnes nå, og jeg har angst for å søke på jobber nå på grunn av koronaviruset. Det er ganske utfordrende og skremmende. Men jeg tror at det kommer til å bli bedre snart, og i det minste har jeg bedre muligheter fordi jeg kan norsk litt bedre nå!
+Jeg føler meg mer selvsikker på norsk, og nå mener jeg er en god tid å finne en jobb eller å melde meg som frivillig. Jeg vil se hva slags muligheter finnes nå, og jeg har angst for å søke på jobber nå på grunn av koronaviruset. Det er ganske utfordrende og skremmende. Men jeg tror at det kommer til å bli bedre snart, og i det minste har jeg bedre muligheter fordi jeg kan norsk litt bedre nå!
