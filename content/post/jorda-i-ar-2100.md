@@ -3,7 +3,7 @@ title: "Jorda i år 2100"
 date: 2021-01-22T15:06:27+01:00
 draft: false
 firstversion:
-  time: ~70
+  time: ~70min
   link: https://github.com/hgonzal/pa-norsk/blob/df569212012eb8637e56f6da607036ea1ed3a1fa/content/post/jorda-i-ar-2100.md
 tags:
 - norskkurs
