@@ -4,7 +4,7 @@ date: 2021-03-14T20:09:52+01:00
 draft: false
 firstversion:
   time: ~90min
-  link:
+  link: https://github.com/hgonzal/pa-norsk/blob/dad9c83f86720cc23d870cab6bfc4080421d8973/content/post/vis-versjoner-github.md
 tags:
 - meta
 - Github

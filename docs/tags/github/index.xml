@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Github on </title>
+    <link>https://www.hanapanorsk.com/tags/github/</link>
+    <description>Recent content in Github on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nb-NO</language>
+    <lastBuildDate>Sun, 14 Mar 2021 20:09:52 +0100</lastBuildDate><atom:link href="https://www.hanapanorsk.com/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Å lære fra feil: Hvordan å vise postversjoner med Github</title>
+      <link>https://www.hanapanorsk.com/post/vis-versjoner-github/</link>
+      <pubDate>Sun, 14 Mar 2021 20:09:52 +0100</pubDate>
+      
+      <guid>https://www.hanapanorsk.com/post/vis-versjoner-github/</guid>
+      <description>&lt;p&gt;Kanskje denne innlegg er litt &amp;ldquo;meta&amp;rdquo;, men uansett vil jeg beskrive hvordan å se på redigeringer for innleggene her på bloggen.&lt;/p&gt;
+&lt;p&gt;Det er veldig hjelpsom for å se på skrivefeil, og kanskje dette kan hjelpe dere som vil lage sin egen språkblogg. For eksempel liker jeg å skrive den første versjonen uten eller med veldig få hjelpemidler. Så korrigerer jeg den etterpå, og derfor kan jeg se hvordan å bli bedre.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
