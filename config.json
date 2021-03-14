@@ -7,6 +7,7 @@
 
     "builddrafts": false,
     "enableGitInfo": true,
+    "Paginate": 10,
 
     "baseurl": "https://www.hanapanorsk.com",
     "canonifyurls": true,
@@ -46,10 +47,10 @@
 
     "pygmentsuseclasses": true,
 
-   "taxonomies": {
+    "taxonomies": {
       "category": "kategorier",
       "tag": "tags"
-   },
+    },
 
     "menu": {
         "main": [
@@ -80,7 +81,7 @@
             "post"
         ],
         "Github": {
-            "Url": "https://hgonzal.github.io/pa-norsk",
+	    "Url": "https://github.com/hgonzal/pa-norsk/",
 	    "PostUrl": "https://github.com/hgonzal/pa-norsk/commits/master/content/post/",
             "Head": "master"
         },

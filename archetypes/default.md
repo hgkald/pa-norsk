@@ -4,7 +4,7 @@ date: {{ .Date }}
 draft: true
 firstversion:
   time: 0
-  link:
+  githash:
 tags:
 kategorier:
 ---

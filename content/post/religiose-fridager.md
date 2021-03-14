@@ -4,7 +4,7 @@ date: 2021-03-04T18:42:53+01:00
 draft: false
 firstversion:
   time: 1t 15min
-  link: https://github.com/hgonzal/pa-norsk/blob/eba13abce7dc10b42cffce21c1c1d57fdfeab789/content/post/religiose-fridager.md
+  githash: eba13abce7dc10b42cffce21c1c1d57fdfeab789
 tags:
 - argumenterende tekst
 - Norskprøven
@@ -19,6 +19,7 @@ Den første versjonen av teksten min nedenfor ble skrevet uten bruk av hjelpemid
 
 **Merk**: Jeg er egentlig ikke helt enig med min egen tekst nedenfor. Det er ikke veldig nyansert. Jeg prøvde å være helt tydelig og klar fordi det er en stor fordel på norskprøven. Det var vanskelig å uttrykke et mer komplisert argument.
 
+<!--more-->
 ## Oppgave
 Bør vi fjerne religiøse fridager?
 
@@ -27,7 +28,6 @@ Norge har mange offentlige fridager knyttet til kristne høytider, for eksempel 
 ## Teksten min
 Religiøse fridager er en stor del av norsk kultur. For eksempel planlegger mange ferier og har mange tradisjoner rundt fridagene i jul og påske. Etter min mening bør vi ikke endre de nåværende religiøse fridagene.
 
-<!--more-->
 For det første er fridagene en viktig del av det norske samfunnet, og mange nordmenn har tradisjoner rundt dem. Mange pleier for eksempel å ta en skiferie i påsken. Det finnes også mange tradisjoner rundt mat og familie rundt jula. Hvis de religiøse fridagene blir fjernet, mener jeg at de fleste vil velge å ha fri nesten de samme dagene på grunn av disse tradisjonene.
 
 For det andre mener jeg at fridagene ikke er religiøse lenger. Fridagene er riktignok knyttet til religiøse høytider, men nå er de bare en del av norsk kultur og arbeidsliv. Folk flest pleier for eksempel å feire jul selv om mange aldri besøker kirken eller tror på en gud. Jeg er ganske sikker på at de fleste ikke vil fjerne jula, så hvorfor vil de fjerne julefridagene?

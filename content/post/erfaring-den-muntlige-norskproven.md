@@ -4,7 +4,7 @@ date: 2021-03-12T14:33:36+01:00
 draft: false
 firstversion:
   time: ~2 timer
-  link: https://github.com/hgonzal/pa-norsk/blob/588cc21ded500620b0f1a52afa5c1671bf27b07e/content/post/erfaring-den-muntlige-norskproven.md
+  githash: 588cc21ded500620b0f1a52afa5c1671bf27b07e
 tags:
 - Norskprøven
 - studietips
