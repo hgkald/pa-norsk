@@ -14,23 +14,25 @@ kategorier:
 
 I går tok jeg den muntlige norskprøven for B1/B2-nivået. Det var min første gang å ta det, og jeg hadde mye angst. Men alt i alt synes jeg at det gikk greit nok. Nå må jeg vente en måned for å få resultatene. Målet mitt er å klar B2, og jeg har ikke peiling om det er sånn.
 
-Mens jeg venter vil jeg beskrive erfaringen min med prøven, og hvordan jeg forberedt meg for den. Du kan hopp over teksten og se oppgavene fra prøven med [denne lenken]({{< ref "erfaring-den-muntlige-norskproven.md#proven" >}}).  
+Mens jeg venter vil jeg beskrive erfaringen min med prøven, og hvordan jeg forberedt meg for den. 
+
+Du kan hopp over teksten og se oppgavene fra prøven med [denne lenken]({{< ref "erfaring-den-muntlige-norskproven.md#proven" >}}).  
 
 <!--more-->
 ## Forbereding
 ### Bakgrunn  
-I desember tok jeg de skriftlige, lytte- og skriveprøvene for A2/B1-nivået. Jeg tok ikke den muntlige prøven fordi den koster ekstra, og jeg tok prøvene for det meste for å øve for B2-nivået. På den tiden bodd jeg også bare fire måneder i Norge, og jeg var helt usikker på hvilket nivået var jeg.
+I desember tok jeg de skriftlige, lytte- og skriveprøvene for A2/B1-nivået. Jeg tok ikke den muntlige prøven fordi den koster ekstra, og jeg tok prøvene for det meste for å øve for B2-nivået. På den tiden har jeg bodd bare fire måneder i Norge, og jeg var helt usikker på hvilket nivået var jeg.
 
-Jeg lærte etter prøven i desember at lytteprøven var mest vanskelig for meg. Derfor fokusert meg etterpå med å høre på og snakke norsk så mest som mulig.  
+Jeg lærte etter prøven i desember at lytteprøven var mest vanskelig for meg. Derfor fokusert meg med å høre på og snakke norsk så mest som mulig.  
 
 ### Norskkurser og språkkafer
 Jeg er ganske heldig at samboeren min er flink med grammatikk og tålmodig med å snakke norsk med meg. Likevel er det ikke nok for å klare B2 så rask som mulig. I erfaringen min lærer jeg best med kurser og/eller en fast struktur. 
 
 Siden august i fjor hadde jeg allerede blitt med et norskkurs hos Folkeuniversitetet. Men i januar søkte jeg også på et norskkurs hos Lingu (på grunn av at jeg trodde at jeg ikke kunne fortsette med FU fordi kurset var fullt. Men jeg fått en plass og fant at jeg likte begge to kursene). 
 
-Samlet er kursene en god kombinasjon for meg, selv om de er ganske dyre. Lingu har mer samtaler, og FU har mer skrive- og lytteoppgaver. Begge fokuserer i grammatikk og handler om temaer som er nyttig for norskprøven, men timene var forskellige nok fra hverandre å være interresant.  
+Samlet er kursene en god kombinasjon for meg, selv om de er ganske dyre. Lingu har mer samtaler, og FU har mer skrive- og lytteoppgaver. Begge fokuserer på grammatikk og handler om temaer som er nyttige for norskprøven, men timene var forskellige nok fra hverandre å være interresante.  
 
-Likevel trengte meg mer muligheter til å øve. Heldigvis finnes det også språkkafeer som er gratis møter for å lære og øve en språk. I koronatiden finnes det ikke noen "fysisk" språkkafer i Oslo, med det finnes mange på nett.
+Likevel trengte meg mer muligheter til å øve. Heldigvis finnes det språkkafeer som er gratis møter for å lære og øve en språk. I koronatiden finnes det ikke noen "fysisk" språkkafer i Oslo, men man kan finne mange på nett.
 
 Derfor var denne timeplanen min i de siste ukene:
 
@@ -65,7 +67,7 @@ Vi fikk tre oppgaver å snakke om:
     - De eldre bør bo med familie i hjemmet. (annen deltakers)
         - Jeg har glemt oppfølgingsspørsmålene!
 
-De uttrykkene overfor er ikke nøyaktig, fordi vi kunne ikke ta med oss hva vi hadde skrevet ned eller ta på prøven.
+De uttrykkene overfor er ikke nøyaktige, fordi vi kunne ikke ta med oss hva vi hadde skrevet ned eller ta på prøven.
 
 Jeg synes at jeg klarte de første to oppgavene gode nok. Men den siste oppgaven var mer utfordrende, og jeg forstod ikke helt det siste oppfølgingsspørsmålet (men proktoren presisert litt for meg og jeg kunne gi et svar). Denne oppgaven var mest viktig for å klare B2.
 
