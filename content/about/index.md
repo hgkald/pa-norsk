@@ -26,7 +26,7 @@ Jeg prøvde å lage et minimalistisk nettside som verken samler personlige infor
 
 Merk at siden bruker Google Analytics for å samle grunnlegende informasjon. Jeg bruker det å se pa statistikker om pageviews og hvilke innlegg er populære. Det er konfigurert å bruke ikke noen cookies, og all informasjon sendt til Google er anonimysert. Hvordan dette fungerer blir beskrevet [her](https://gohugo.io/about/hugo-and-gdpr/). 
 
-Siden bruker dessuten kommentarer. Det er ikke nødvendig å bruke det, og du kan be om å slette kommentarene dine når du vil. 
+Siden bruker dessuten kommentarer. Det er ikke nødvendig å bruke det, og kommentaren din kan bli slettet når du vil.
 {{< /details >}}
 
 {{< details title="Kommentarpolicy" open=false >}}
@@ -36,7 +36,11 @@ Merk at jeg vurderer hver kommentar før den er postet til siden, og de kan ta e
 {{< /details >}}
 
 {{< details title="Kontakt og diverse" open=false >}}
-Jeg kan være kontaktet via [Instagram](https://instagram.com/hanaeyes) eller [LinkedIn](http://hanagonzales.com). 
+Du kan sende meg en melding på:
+
+**hei [krøllalfa] hanapanorsk [dot] com**
+
+Du kan også finne meg på [Instagram](https://instagram.com/hanaeyes). 
 
 Siden er lagde med [Hugo](https://gohugo.io/) som bruker [Lanyon-temaen](https://themes.gohugo.io/lanyon/) med mine egne endringer. [Staticman](https://staticman.net/) er brukt som kommentarsystemet. 
 Siden er hostet via [GitHub Pages](https://pages.github.com/). 
