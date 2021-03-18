@@ -17,11 +17,11 @@ kategorier:
 
 Denne teksten er en historie av Snorre som fortalt om kong Olav den hellige i Gudbrandsdalen. Han dro dit for å overbevise de som bodde der å bli kristne.
 
-Snorre nevner at Dale-Gudbrand var den mektigste mannen i Gudbrandsdalen. Han erklærte til bøndene i Gudbrandsdalen at når Olav kommer, vil Tor smelte Olav og hans menn.
+Dale-Gudbrand var beskrevet som den mektigste mannen i Gudbrandsdalen. Han fortalte bøndene i Gudbrandsdalen at når Olav kommer, vil Tor smelte Olav og hans menn.
 <!--more-->
 
-Likevel kommet Olav, og fortalte dem at de andre i dalen hadde tatt imot kristendommen. Dale-Gudbrand var ikke overbevist. Han svarte at de kunne ikke se Olavs gud, men de kunne se Tor hver dag. Han sa at de vil bære Tor utendørs, og da vil Olav se hvor stor og mektig han er.
+Likevel kom Olav, og han erklærte at de andre i dalen hadde tatt imot kristendommen. Dale-Gudbrand svarte at de ikke kunne se Olavs gud, men de kunne se Tor hver dag. Så bæret de Tor utendørs for Olav å se hvor mektig han er.
 
-Men etter de hadde båret Tor ut, påpekte Olav at Tor var blind, dov og kunne ikke bevege seg uten menn. Han fortalte dem at slik gud ikke kan hjelpe sjelene deres. Han sa at de kan se beviset av guden hans i soloppgangen.
+Men Olav påpekte at Tor var blind, dov og kunne ikke bevege seg uten menn. Han sa at slik gud ikke kan hjelpe sjelene deres. Han sa at de kan se beviset av guden hans i soloppgangen.
 
-Da bøndene så på sola, slo Olavs menn ned Tor-figuren. Olav erklærte at nå kunne de se hvor mektig Tor er. Dale-Gudbrand erkjente at Tor var skadet og kunne ikke hjelpe dem. Dermed ble alle sammen døpt.
+Da bøndene så på sola, slo Olavs menn ned Tor-figuren. Olav erklærte at nå kunne de se hvor mektig Tor er. Dale-Gudbrand erkjente at Tor kunne ikke hjelpe dem. Dermed ble alle sammen døpt.
