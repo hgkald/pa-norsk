@@ -96,30 +96,30 @@ if (!doNotTrack) {
   <span class="post-date">
     
       14.03.2021 
-      / 389 ord 
+      / 398 ord 
       / Teknologi 
     
   </span>
 
   <p>Kanskje denne innlegg er litt &ldquo;meta&rdquo;, men uansett vil jeg beskrive hvordan å se på redigeringer for innleggene her på bloggen.</p>
-<p>Det er veldig hjelpsom for å se på skrivefeil, og kanskje dette kan hjelpe dere som vil lage sin egen språkblogg. For eksempel liker jeg å skrive den første versjonen uten eller med veldig få hjelpemidler. Så korrigerer jeg den etterpå, og derfor kan jeg se hvordan å bli bedre.</p>
+<p>Det er veldig hjelpsom for å se på skrivefeil, og kanskje dette kan hjelpe dere som vil lage sin egen språkblogg. For eksempel liker jeg å skrive den første versjonen uten eller med veldig få hjelpemidler. Så korrigerer jeg den etterpå, og dermed kan jeg se hvordan å bli bedre.</p>
 <h2 id="litt-bakgrunn">Litt bakgrunn</h2>
-<p>Først vil jeg beskrive litt hvordan siden fungerer. Hele siden, inkludert innlegg, er lagret på en side som heter <em>GitHub</em>. GitHub driver med hovedsakelig for å lagre og dele dataprogrammkode. Kodene er lagret på en format som heter <em>git</em>.</p>
-<p>En sterk fordel av git er at det er veldig tydelig og enkel å se endringer mellom forskjellige versjoner. Det er en fordel for å vise kode, men også for skriftlige tekst.</p>
+<p>Først vil jeg beskrive litt hvordan siden fungerer. Hele siden, inkludert innleggene, er lagret på en side som heter <em>GitHub</em>. GitHub driver med hovedsakelig for å lagre og dele dataprogrammkode. Kodene er lagret på en format som heter <em>git</em>.</p>
+<p>En sterk fordel av git er at det er veldig tydelig og enkel å se endringene mellom forskjellige versjoner. Det er en fordel for å vise kode, men også for skriftlige tekst.</p>
 <h2 id="så-hvordan-brukes-det">Så hvordan brukes det?</h2>
 <p>Jeg vil beskrive hvordan å klare det for hver innlegg her. For eksempel kan vi se på innlegget som heter <a href="https://www.hanapanorsk.com/post/barn-og-sosiale-medier/"><em>Barn og sosiale media</em></a>.</p>
-<p>På slutt av innlegget er en lenk for å vise <em>&ldquo;alle versjoner&rdquo;</em> (denne innlegg har det også). Når du trykke på det, ser du en liste av versjonene, eller <em>commits</em> som git kaller dem:</p>
+<p>På slutt av innlegget er en lenk for å vise <a href="https://github.com/hgonzal/pa-norsk/commits/master/content/post/barn-og-sosiale-medier.md"><em>&ldquo;alle versjoner&rdquo;</em></a> (denne innlegg har <a href="https://github.com/hgonzal/pa-norsk/commits/master/content/post/vis-versjoner-github.md">en lenke</a> også). Når du trykke på det, ser du en liste av versjonene, eller <em>commits</em> som git kaller dem:</p>
 <p><img src="https://www.hanapanorsk.com/img/barn-innlegg-versjoner.png" alt="Liste av versjoner"></p>
-<p>Du kan se at jeg har endret denne siden ganske ofte. Ikke alle er tekstendringer, og mange er endringer til siden selv.</p>
-<p>Versjoner som er relevant er de som starter med teksten <em>&ldquo;Edit post&rdquo;</em> (jeg skriver ikke denne notater på norsk ennå :)). For eksempel: en interessant versjon er den som heter <em>&ldquo;Edit post: Barn og sosiale medier (edited with native speaker)&quot;</em>. Det finnes nær enden av listen:</p>
+<p>Du kan se at jeg har endret denne siden ganske ofte. Ikke alle er tekstendringer, og mange er endringer til siden selv. For eksempel viser det når jeg endrer designen av bloggen.</p>
+<p>Versjonene som er relevant er de som starter med teksten <em>&ldquo;Edit post&rdquo;</em> (jeg skriver ikke denne notater på norsk :)). For eksempel: en interessant versjon er den som heter <em>&ldquo;Edit post: Barn og sosiale medier (edited with native speaker)&quot;</em>. Det finnes nær enden av listen:</p>
 <p><img src="https://www.hanapanorsk.com/img/barn-innlegg-versjon-highlight.png" alt="Se på en spesifikk versjon"></p>
 <p>Når du trykke på det, vil du se endringene som jeg har gjort for versjonen:</p>
 <p><img src="https://www.hanapanorsk.com/img/barn-innlegg-raw-endringer.png" alt="Rå tekst"></p>
 <p>Dette er interessant nok, men det er vanskelig å lese. Heldigvis har allerede GitHub en løsning. Du kan trykke på knappen på det høyre hjørnet av rammen med teksten. Det ser ut som et ark:</p>
 <p><img src="https://www.hanapanorsk.com/img/barn-innlegg-raw-markdownbox.png" alt="Knappen"></p>
-<p>Voila! Nå kan du se med detaljer hvilke ord og uttrykk var endret:</p>
+<p>Voila! Nå kan du se med detaljer hvilke ord og uttrykk ble endret:</p>
 <p><img src="https://www.hanapanorsk.com/img/barn-innlegg-versjon-richdiff.png" alt="Tekst på rich diff"></p>
-<p>Denne versjon var gjort med samboeren min som korrigert mange ord og uttrykk feil. Du kan gjøre denne med alle innlegg på nettsiden.</p>
+<p>Denne versjon var gjort med samboeren min som korrigert mange ord- og uttrykksfeil. Du kan gjøre denne med alle innleggene på nettsiden.</p>
 <p>Jeg vil lage en enklere måte å vise versjoner på, men det er komplisert å implementere. Foreløpig håper jeg at dette er i det minste litt interessant for dere!</p>
 
   <span class="post-meta">

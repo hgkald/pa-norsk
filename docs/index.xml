@@ -29,24 +29,24 @@
         <author>Hana</author>
         <guid>https://www.hanapanorsk.com/post/vis-versjoner-github/</guid>
         <description>&lt;p&gt;Kanskje denne innlegg er litt &amp;ldquo;meta&amp;rdquo;, men uansett vil jeg beskrive hvordan å se på redigeringer for innleggene her på bloggen.&lt;/p&gt;
-&lt;p&gt;Det er veldig hjelpsom for å se på skrivefeil, og kanskje dette kan hjelpe dere som vil lage sin egen språkblogg. For eksempel liker jeg å skrive den første versjonen uten eller med veldig få hjelpemidler. Så korrigerer jeg den etterpå, og derfor kan jeg se hvordan å bli bedre.&lt;/p&gt;
+&lt;p&gt;Det er veldig hjelpsom for å se på skrivefeil, og kanskje dette kan hjelpe dere som vil lage sin egen språkblogg. For eksempel liker jeg å skrive den første versjonen uten eller med veldig få hjelpemidler. Så korrigerer jeg den etterpå, og dermed kan jeg se hvordan å bli bedre.&lt;/p&gt;
 &lt;h2 id=&#34;litt-bakgrunn&#34;&gt;Litt bakgrunn&lt;/h2&gt;
-&lt;p&gt;Først vil jeg beskrive litt hvordan siden fungerer. Hele siden, inkludert innlegg, er lagret på en side som heter &lt;em&gt;GitHub&lt;/em&gt;. GitHub driver med hovedsakelig for å lagre og dele dataprogrammkode. Kodene er lagret på en format som heter &lt;em&gt;git&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;En sterk fordel av git er at det er veldig tydelig og enkel å se endringer mellom forskjellige versjoner. Det er en fordel for å vise kode, men også for skriftlige tekst.&lt;/p&gt;
+&lt;p&gt;Først vil jeg beskrive litt hvordan siden fungerer. Hele siden, inkludert innleggene, er lagret på en side som heter &lt;em&gt;GitHub&lt;/em&gt;. GitHub driver med hovedsakelig for å lagre og dele dataprogrammkode. Kodene er lagret på en format som heter &lt;em&gt;git&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;En sterk fordel av git er at det er veldig tydelig og enkel å se endringene mellom forskjellige versjoner. Det er en fordel for å vise kode, men også for skriftlige tekst.&lt;/p&gt;
 &lt;h2 id=&#34;så-hvordan-brukes-det&#34;&gt;Så hvordan brukes det?&lt;/h2&gt;
 &lt;p&gt;Jeg vil beskrive hvordan å klare det for hver innlegg her. For eksempel kan vi se på innlegget som heter &lt;a href=&#34;https://www.hanapanorsk.com/post/barn-og-sosiale-medier/&#34;&gt;&lt;em&gt;Barn og sosiale media&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;På slutt av innlegget er en lenk for å vise &lt;em&gt;&amp;ldquo;alle versjoner&amp;rdquo;&lt;/em&gt; (denne innlegg har det også). Når du trykke på det, ser du en liste av versjonene, eller &lt;em&gt;commits&lt;/em&gt; som git kaller dem:&lt;/p&gt;
+&lt;p&gt;På slutt av innlegget er en lenk for å vise &lt;a href=&#34;https://github.com/hgonzal/pa-norsk/commits/master/content/post/barn-og-sosiale-medier.md&#34;&gt;&lt;em&gt;&amp;ldquo;alle versjoner&amp;rdquo;&lt;/em&gt;&lt;/a&gt; (denne innlegg har &lt;a href=&#34;https://github.com/hgonzal/pa-norsk/commits/master/content/post/vis-versjoner-github.md&#34;&gt;en lenke&lt;/a&gt; også). Når du trykke på det, ser du en liste av versjonene, eller &lt;em&gt;commits&lt;/em&gt; som git kaller dem:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://www.hanapanorsk.com/img/barn-innlegg-versjoner.png&#34; alt=&#34;Liste av versjoner&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Du kan se at jeg har endret denne siden ganske ofte. Ikke alle er tekstendringer, og mange er endringer til siden selv.&lt;/p&gt;
-&lt;p&gt;Versjoner som er relevant er de som starter med teksten &lt;em&gt;&amp;ldquo;Edit post&amp;rdquo;&lt;/em&gt; (jeg skriver ikke denne notater på norsk ennå :)). For eksempel: en interessant versjon er den som heter &lt;em&gt;&amp;ldquo;Edit post: Barn og sosiale medier (edited with native speaker)&amp;quot;&lt;/em&gt;. Det finnes nær enden av listen:&lt;/p&gt;
+&lt;p&gt;Du kan se at jeg har endret denne siden ganske ofte. Ikke alle er tekstendringer, og mange er endringer til siden selv. For eksempel viser det når jeg endrer designen av bloggen.&lt;/p&gt;
+&lt;p&gt;Versjonene som er relevant er de som starter med teksten &lt;em&gt;&amp;ldquo;Edit post&amp;rdquo;&lt;/em&gt; (jeg skriver ikke denne notater på norsk :)). For eksempel: en interessant versjon er den som heter &lt;em&gt;&amp;ldquo;Edit post: Barn og sosiale medier (edited with native speaker)&amp;quot;&lt;/em&gt;. Det finnes nær enden av listen:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://www.hanapanorsk.com/img/barn-innlegg-versjon-highlight.png&#34; alt=&#34;Se på en spesifikk versjon&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Når du trykke på det, vil du se endringene som jeg har gjort for versjonen:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://www.hanapanorsk.com/img/barn-innlegg-raw-endringer.png&#34; alt=&#34;Rå tekst&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Dette er interessant nok, men det er vanskelig å lese. Heldigvis har allerede GitHub en løsning. Du kan trykke på knappen på det høyre hjørnet av rammen med teksten. Det ser ut som et ark:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://www.hanapanorsk.com/img/barn-innlegg-raw-markdownbox.png&#34; alt=&#34;Knappen&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Voila! Nå kan du se med detaljer hvilke ord og uttrykk var endret:&lt;/p&gt;
+&lt;p&gt;Voila! Nå kan du se med detaljer hvilke ord og uttrykk ble endret:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://www.hanapanorsk.com/img/barn-innlegg-versjon-richdiff.png&#34; alt=&#34;Tekst på rich diff&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Denne versjon var gjort med samboeren min som korrigert mange ord og uttrykk feil. Du kan gjøre denne med alle innlegg på nettsiden.&lt;/p&gt;
+&lt;p&gt;Denne versjon var gjort med samboeren min som korrigert mange ord- og uttrykksfeil. Du kan gjøre denne med alle innleggene på nettsiden.&lt;/p&gt;
 &lt;p&gt;Jeg vil lage en enklere måte å vise versjoner på, men det er komplisert å implementere. Foreløpig håper jeg at dette er i det minste litt interessant for dere!&lt;/p&gt;</description>
       </item>
     
@@ -56,17 +56,17 @@
         <pubDate>Fri, 12 Mar 2021 14:33:36 CET</pubDate>
         <author>Hana</author>
         <guid>https://www.hanapanorsk.com/post/erfaring-den-muntlige-norskproven/</guid>
-        <description>&lt;p&gt;I går tok jeg den muntlige norskprøven for B1/B2-nivået. Det var min første gang å ta det, og jeg hadde mye angst. Men alt i alt synes jeg at det gikk greit nok. Nå må jeg vente en måned for å få resultatene. Målet mitt er å klar B2, og jeg har ikke peiling om det er sånn.&lt;/p&gt;
+        <description>&lt;p&gt;I går tok jeg den muntlige norskprøven for B1/B2-nivået. Det var min første gang å ta det, og jeg hadde mye angst. Men alt i alt synes jeg at det gikk greit nok. Nå må jeg vente en måned for å få resultatene. Målet mitt er å klare B2, og jeg har ikke peiling om det er sånn.&lt;/p&gt;
 &lt;p&gt;Mens jeg venter vil jeg beskrive erfaringen min med prøven, og hvordan jeg forberedt meg for den.&lt;/p&gt;
 &lt;p&gt;Du kan hopp over teksten og se oppgavene fra prøven med &lt;a href=&#34;https://www.hanapanorsk.com/post/erfaring-den-muntlige-norskproven/#proven&#34;&gt;denne lenken&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;forbereding&#34;&gt;Forbereding&lt;/h2&gt;
 &lt;h3 id=&#34;bakgrunn&#34;&gt;Bakgrunn&lt;/h3&gt;
 &lt;p&gt;I desember tok jeg de skriftlige, lytte- og skriveprøvene for A2/B1-nivået. Jeg tok ikke den muntlige prøven fordi den koster ekstra, og jeg tok prøvene for det meste for å øve for B2-nivået. På den tiden har jeg bodd bare fire måneder i Norge, og jeg var helt usikker på hvilket nivået var jeg.&lt;/p&gt;
-&lt;p&gt;Jeg lærte etter prøven i desember at lytteprøven var mest vanskelig for meg. Derfor fokusert meg med å høre på og snakke norsk så mest som mulig.&lt;/p&gt;
+&lt;p&gt;Jeg lærte etter prøven i desember at lytteprøven var mest vanskelig for meg. Derfor fokusert meg på å høre på og snakke norsk så mest som mulig.&lt;/p&gt;
 &lt;h3 id=&#34;norskkurser-og-språkkafer&#34;&gt;Norskkurser og språkkafer&lt;/h3&gt;
-&lt;p&gt;Jeg er ganske heldig at samboeren min er flink med grammatikk og tålmodig med å snakke norsk med meg. Likevel er det ikke nok for å klare B2 så rask som mulig. I erfaringen min lærer jeg best med kurser og/eller en fast struktur.&lt;/p&gt;
+&lt;p&gt;Jeg er ganske heldig at samboeren min er flink med grammatikk og tålmodig med å snakke norsk. Likevel er det ikke nok for å klare B2 så rask som mulig. I erfaringen min lærer jeg best med kurser og/eller en fast struktur.&lt;/p&gt;
 &lt;p&gt;Siden august i fjor hadde jeg allerede blitt med et norskkurs hos Folkeuniversitetet. Men i januar søkte jeg også på et norskkurs hos Lingu (på grunn av at jeg trodde at jeg ikke kunne fortsette med FU fordi kurset var fullt. Men jeg fått en plass og fant at jeg likte begge to kursene).&lt;/p&gt;
-&lt;p&gt;Samlet er kursene en god kombinasjon for meg, selv om de er ganske dyre. Lingu har mer samtaler, og FU har mer skrive- og lytteoppgaver. Begge fokuserer på grammatikk og handler om temaer som er nyttige for norskprøven, men timene var forskellige nok fra hverandre å være interresante.&lt;/p&gt;
+&lt;p&gt;Samlet er kursene en god kombinasjon for meg, selv om de er ganske dyre. Lingu har mer samtaler, og FU har mer skrive- og lytteoppgaver. Begge fokuserer på grammatikk og handler om temaer som er nyttige for norskprøven, men timene var forskjellige nok fra hverandre å være interessante.&lt;/p&gt;
 &lt;p&gt;Likevel trengte meg mer muligheter til å øve. Heldigvis finnes det språkkafeer som er gratis møter for å lære og øve en språk. I koronatiden finnes det ikke noen &amp;ldquo;fysisk&amp;rdquo; språkkafer i Oslo, men man kan finne mange på nett.&lt;/p&gt;
 &lt;p&gt;Derfor var denne timeplanen min i de siste ukene:&lt;/p&gt;
 &lt;table&gt;
@@ -107,7 +107,7 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;Samlet gjorde jeg 23 timer per uke i det siste ukene bare for å lære norsk. I tillegg så jeg på norsk TV, hørte på &lt;a href=&#34;https://radio.nrk.no/&#34;&gt;NRK Radio&lt;/a&gt; og podkaster, så på &lt;a href=&#34;https://www.youtube.com/channel/UCbrUYR892qBNQyY3DEqfTBg&#34;&gt;Karenses YouTube videoer&lt;/a&gt; og bestemte at vi vil snakke bare norsk i hjemmet (som var 90% vellykkes).&lt;/p&gt;
+&lt;p&gt;Samlet gjorde jeg 23 timer per uke i det siste ukene bare for å lære norsk. I tillegg så jeg på norsk TV, hørte på &lt;a href=&#34;https://radio.nrk.no/&#34;&gt;NRK Radio&lt;/a&gt; og podkaster, så på &lt;a href=&#34;https://www.youtube.com/channel/UCbrUYR892qBNQyY3DEqfTBg&#34;&gt;Karenses YouTube videoer&lt;/a&gt; og bestemte at vi vil snakke bare norsk i hjemmet (som var 90% vellykket).&lt;/p&gt;
 &lt;p&gt;Var det nok for å klare B2? Jeg må vent en måned for å finne ut&amp;hellip;&lt;/p&gt;
 &lt;h2 id=&#34;proven&#34;&gt;Prøven&lt;/h2&gt;
 &lt;p&gt;Men hvordan var prøven selv?&lt;/p&gt;
@@ -116,13 +116,13 @@
 &lt;ol&gt;
 &lt;li&gt;Gi din mening (B1-nivå):
 &lt;ul&gt;
-&lt;li&gt;Synes du at det er nødvendig å få utdanning for å få en god jobb? (mitt)&lt;/li&gt;
-&lt;li&gt;Synes du at det er en god idé å ha venner fra forskjellige kulturer? (annen deltakers)&lt;/li&gt;
+&lt;li&gt;Synes du at det er nødvendig å få utdanning for å skaffe seg en god jobb? (mitt)&lt;/li&gt;
+&lt;li&gt;Synes du at det er en god idé å ha venner fra forskjellige kulturer? (den andre deltakers)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Samtale med den andre deltakeren (B1/B2-nivå):
 &lt;ul&gt;
-&lt;li&gt;Snakke om teknologi og  fordeler og ulemper av nye teknologiske hjelpemidler.&lt;/li&gt;
+&lt;li&gt;Snakke om teknologi og fordeler og ulemper av nye teknologiske hjelpemidler.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Argumentere for eller mot en påstand (B2-nivå). Du får et par minutter for å skrive ned notater før du svarer:
@@ -137,7 +137,7 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;De eldre bør bo med familie i hjemmet. (annen deltakers)
+&lt;li&gt;De eldre bør bo med familie i hjemmet. (den andre deltakers)
 &lt;ul&gt;
 &lt;li&gt;Jeg har glemt oppfølgingsspørsmålene!&lt;/li&gt;
 &lt;/ul&gt;
