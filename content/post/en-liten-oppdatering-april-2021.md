@@ -4,7 +4,7 @@ date: 2021-04-01T17:07:05+01:00
 draft: false
 firstversion:
   time: ~10 min
-  githash:
+  githash: f30509d94038d0b25b5136797f4eb02468de2d39
 tags:
 - påske 
 kategorier:
