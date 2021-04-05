@@ -4,7 +4,7 @@ date: 2021-04-03T17:11:34+02:00
 draft: false
 firstversion:
   time: ~1t 15min
-  githash:
+  githash: fba5cc3454d21268cc647447eb4814c7039fc662
 tags:
 - Covid-19
 - Bærum

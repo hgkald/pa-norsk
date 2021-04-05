@@ -11,7 +11,7 @@ kategorier:
 - Hverdagen
 ---
 
-God paske alle sammen! 
+God påske alle sammen! 
 
 Mange nordmenn pleier å dra til hyttene sine på påske, og egentlig hadde de ikke lov i fjor på grunn av koronarestriksjoner. Derfor tror jeg at dette året er folk flest ivrig å dra til hytta.
 
