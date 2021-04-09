@@ -4,7 +4,7 @@ date: 2021-04-09T13:41:35+02:00
 draft: false
 firstversion:
   time: 45min
-  githash:
+  githash: c76df7ad74ad41bf9ad66af95792870e40de3f69
 tags:
 - Bergenstesten
 kategorier:
@@ -17,6 +17,7 @@ kategorier:
 
 I intervjuet hører vi fra siviløkonomen Anna Silje Andersen om livet hennes i Frankrike og meningene hennes om fransk næringsliv. Hun sammenligner også forskjellene mellom liv i Norge og Frankrike, spesielt for kvinner.
 
+<!--more-->
 Andersen startet å jobbe i Frankrike fordi hun fikk mulighet til å bli med i en utvekslingsprogram av firmaen hennes. Det var en mulighet til henne for å skaffe internasjonal erfaring, forbedre språkkunskapet hennes og forstår hvordan næringen fungerer utenfor Norge. Dermed kunne henne forebedre seg selv når hun jobber i Norge igjen.
 
 Etter hennes mening er det viktig å snakke flere språk enn mørsmålet ditt, og at det er nesten en forutsetning når du jobber i Europa. Hun påpeker at EU-en i generelt setter pris på åpen kommunikasjon, og derfor er det en stor fordel å vite flere språk. Hun nevner at engelsk er viktig fordi det er det internasjonale språket, og at fransk er spesielt viktig som siviløkonom. Hun synes at fransk kunnskapp kan gi man mer muligheter i næringslivet.
