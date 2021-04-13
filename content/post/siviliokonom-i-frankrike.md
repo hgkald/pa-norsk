@@ -16,20 +16,20 @@ kategorier:
 
 *[Den første versjonen](https://github.com/hgonzal/pa-norsk/blob/c76df7ad74ad41bf9ad66af95792870e40de3f69/content/post/siviliokonom-i-frankrike.md) ble skrevet uten hjelpemidler og med en 45 minutters tidsbegrensning. Jeg skrev dette ganske sakte og kunne ikke redigere filen innen tidsgrensen, og dette er gjenspeilt i feilene i den første versjonen.*
 
-I intervjuet hører vi fra siviløkonomen Anna Silje Andersen om livet hennes i Frankrike og meningene hennes om fransk næringsliv. Hun sammenligner også forskjellene mellom liv i Norge og Frankrike, spesielt for kvinner.
+I intervjuet hører vi fra siviløkonomen Anna Silje Andersen om livet hennes i Frankrike og meningene hennes om fransk næringsliv. Hun sammenligner også forskjellene mellom å leve i Norge og Frankrike, spesielt for kvinner.
 
 <!--more-->
-Andersen startet å jobbe i Frankrike fordi hun fikk mulighet til å bli med i en utvekslingsprogram av firmaen hennes. Det var en mulighet til henne for å skaffe internasjonal erfaring, forbedre språkkunskapet hennes og forstår hvordan næringen fungerer utenfor Norge. Dermed kunne hun forebedre seg når hun jobber i Norge igjen.
+Andersen startet å jobbe i Frankrike fordi hun fikk en mulighet til å bli med i et utvekslingsprogram av firmaet sitt. Det var en mulighet for henne til å skaffe seg internasjonal erfaring, forbedre språkkunnskapen sin og forstå hvordan næringen fungerer utenfor Norge. Dermed kunne hun ta med seg viktig kunnskap tilbake til Norge.
 
-Etter hennes mening er det viktig å snakke flere språk enn mørsmålet ditt, og dette er nesten en forutsetning når du jobber i Europa. Hun påpeker at EU-en i generelt setter pris på åpen kommunikasjon, og derfor er det en stor fordel å kunne flere språk. Hun nevner at engelsk er viktig fordi det er det internasjonale språket, og at fransk er spesielt viktig som siviløkonom. Hun synes at fransk kunnskap kan gi man mer muligheter i næringslivet.
+Etter hennes mening er det viktig å snakke flere språk enn mørsmålet ditt, og dette er nesten en forutsetning når du jobber i Europa. Hun påpeker at EU-en i generelt setter pris på åpen kommunikasjon, og derfor er det en stor fordel å kunne mange språk. Hun nevner at engelsk er viktig fordi det er det internasjonale språket, og at fransk er spesielt viktig som siviløkonom. Hun synes at fransk kunnskap kan gi en flere muligheter i næringslivet.
 
 I tillegg til mulighetene lærte hun fransk for å integrere bedre i Frankrike. Hun synes at landet er mindre åpent enn andre land, og franske bedrifter setter stor pris på forståelse av fransk kultur og språk. Derfor var det viktig å lære seg fransk.
 
-I forhold til fransk næringslivet peker hun på spesielle trekk om det. For eksempel synes hun at franskerne er veldig glad i mat og verdier lunsjen deres mellom kl. 12 og 14.
+I forhold til fransk næringslivet peker hun på spesielle trekk om det. For eksempel synes hun at franskmenn er veldig glad i mat og verdier lunsjen deres mellom kl. 12 og 14.
 
-Dessuten har hun legget merke til andre store forskjeller mellom det franske og norske næringslivet. Etter hennes erfaring har de lengre arbeidsdager i Frankrike, og det er vanlig å starte å jobbe rundt kl. 9 eller 10. Det er sjelden å dra hjem før kl. 7 i kvelden. Derfor er det vanlig i hverdagene å ha lite tid i hjemmet.
+Dessuten har hun lagt merke til andre store forskjeller mellom det franske og norske næringslivet. Etter hennes erfaring har franskmenn lengre arbeidsdager, og det er vanlig å starte å jobbe rundt kl. 9 eller 10. Det er sjelden å gå hjem før kl. 7 i kvelden. Derfor er det vanlig i hverdagene å ha lite tid i hjemmet.
 
-I generelt er franskmenns forhold til jobben også annerledes enn nordmenns. For eksempel mener hun at det ikke er veldig vanlig i Paris å dra tidligere fra jobben for å passe på familien. Så det er umulig å hente barn fra barnehagen i Frankrike, og samtidig er dette helt vanlig i norge.
+I generelt er franskmenns forhold til jobben også annerledes enn nordmenns. For eksempel mener hun at det ikke er veldig vanlig i Paris å dra tidligere fra jobben for å hente barn fra barnehagen, men dette er helt vanlig i norge.
 
 På grunn av dette synes hun at det nesten er umulig å kombinere jobb og familie i fransk næringsliv. I tillegg til lengre arbeidsdager, får mødre bare to og en halv måneder fødselspermisjon. I norge får de ti måneder. Hun påpeker at franske foreldre er eldre enn i Norge kanskje fordi det er mer vanskelig å skaffe en familie der.
 
