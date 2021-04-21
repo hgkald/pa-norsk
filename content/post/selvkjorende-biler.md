@@ -4,10 +4,11 @@ date: 2021-04-21T17:19:59+02:00
 draft: false
 firstversion:
   time: 1t 17 min
-  githash:
+  githash: 60d59d8f2e19c235a68fbef3d2b7a07991a20eff
 tags:
 - Norskprøven
 - teknologi
+- fremtiden
 kategorier:
 - Treningsoppgave
 ---
