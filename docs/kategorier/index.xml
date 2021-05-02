@@ -6,7 +6,16 @@
     <description>Recent content in Kategorier on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nb-NO</language>
-    <lastBuildDate>Wed, 21 Apr 2021 17:19:59 +0200</lastBuildDate><atom:link href="https://www.hanapanorsk.com/kategorier/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Apr 2021 18:23:43 +0200</lastBuildDate><atom:link href="https://www.hanapanorsk.com/kategorier/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dagbok</title>
+      <link>https://www.hanapanorsk.com/kategorier/dagbok/</link>
+      <pubDate>Thu, 29 Apr 2021 18:23:43 +0200</pubDate>
+      
+      <guid>https://www.hanapanorsk.com/kategorier/dagbok/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Treningsoppgave</title>
       <link>https://www.hanapanorsk.com/kategorier/treningsoppgave/</link>
@@ -22,15 +31,6 @@
       <pubDate>Sat, 03 Apr 2021 17:11:34 +0200</pubDate>
       
       <guid>https://www.hanapanorsk.com/kategorier/nyheter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hverdagen</title>
-      <link>https://www.hanapanorsk.com/kategorier/hverdagen/</link>
-      <pubDate>Thu, 01 Apr 2021 17:07:05 +0100</pubDate>
-      
-      <guid>https://www.hanapanorsk.com/kategorier/hverdagen/</guid>
       <description></description>
     </item>
     

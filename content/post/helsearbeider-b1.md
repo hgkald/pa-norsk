@@ -12,6 +12,8 @@ kategorier:
 - Treningsoppgave
 ---
 
+*Dette temaet er det annet temaet som dukket opp i norskprøven min i våret. Jeg skrev ikke om dette temaet, men nå må jeg forsette å øve for prøven igjen.*
+
 **Bør det være et krav at helsearbeidere skal ha bestått B1-språknivået for å bli ansatt?**
 
 På alle arbeidsplasser er det viktig at arbeiderne kommuniserer tydelig og forståelig med dem som de jobber med. Dette er spesielt viktig i helsetjenesten. Jeg mener at helsearbeidere bør bestå B1-nivået før de blir ansatt. Jeg tror at dette kravet kan sørge for både bedre omsorg for pasienter og bedre samarbeid mellom kolleger.

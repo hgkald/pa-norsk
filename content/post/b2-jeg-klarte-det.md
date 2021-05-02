@@ -4,7 +4,7 @@ date: 2021-04-29T18:23:43+02:00
 draft: false
 firstversion:
   time: 
-  githash:
+  githash: 3551493618411b8f137a91a486d4a803b6d623f3
 tags:
 - norskframgang
 - Norskprøven

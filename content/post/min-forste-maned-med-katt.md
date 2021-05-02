@@ -8,7 +8,7 @@ firstversion:
 tags:
 - katt
 kategorier:
-- Hverdagen
+- Dagbok
 ---
 
 For rundt en måned siden fikk jeg min første katt. Hun var tolv uker gammel, 1,4 kilo tung og grå med svarte striper. Pelsen på potene hennes og rundt halsen hennes er hvit.  Samboeren min og jeg fant henne i en lokal dyreorganisasjon som omplasserer kjæledyr. De fant henne med mora hennes og tre søsken på en gård i nærheten av Oslo.
