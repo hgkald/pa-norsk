@@ -1,11 +1,12 @@
 <!-- Groups content by month according to the "publishDate" field in front matter -->
-{{ range .Pages.GroupByPublishDate "2006.01" }}
-<h2>{{ .Key }}</h2>
+{{ range .Pages.GroupByPublishDate "01.2006" }}
+<h3>{{ index $.Site.Data.maaneder (printf "%d" ( int ( index ( split .Key ".") 0))) }} {{ index ( split .Key ".") 1 }}</h3>
 <ul>
     {{ range .Pages }}
     <li>
         {{ if eq .Type "post" }}
-          <a href="{{ .Permalink }}">{{ .Title }}</a>
+        {{ "02.01" | .Date.Format }} -  
+	<a href="{{ .Permalink }}">{{ .Title }}</a>
         {{ else }}
           <a href="{{ .Permalink }}">{{ .Title }}</a>
         {{ end }}
