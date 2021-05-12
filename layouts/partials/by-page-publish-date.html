@@ -1,0 +1,15 @@
+<!-- Groups content by month according to the "publishDate" field in front matter -->
+{{ range .Pages.GroupByPublishDate "2006.01" }}
+<h2>{{ .Key }}</h2>
+<ul>
+    {{ range .Pages }}
+    <li>
+        {{ if eq .Type "post" }}
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+        {{ else }}
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+        {{ end }}
+    </li>
+    {{ end }}
+</ul>
+{{ end }}
