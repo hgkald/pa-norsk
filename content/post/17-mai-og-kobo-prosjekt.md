@@ -3,8 +3,8 @@ title: "17. mai og (muligens) Kobo på norsk"
 date: 2021-05-20T19:50:23+02:00
 draft: false
 firstversion:
-  time: 0
-  githash:
+  time: 
+  githash: 9f30d921a39481a16de5035f06973d3728bc886b
 tags:
 - språk
 - ordbok
