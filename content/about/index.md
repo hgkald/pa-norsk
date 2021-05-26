@@ -5,18 +5,18 @@ draft: false
 slug: "om-bloggen"
 ---
 
-Velkommen. Jeg heter Hana, og dette er bloggen min. Jeg lærer meg norsk, og dette er mitt sted til å øve skriftlig norsk. 
+Velkommen. Jeg heter Hana, og jeg begynte å lære norsk i 2020. Jeg startet denne bloggen for å hjelpe meg å øve skriftlig norsk. Takk for besøket!  
 
 {{< details title="Språkbakgrunn" open=false >}}
-Morsmålene mine er engelsk og tagalog (jeg lærte dem samtidig), og jeg begynte å lære norsk i januar 2020. Syv måneder senere flyttet jeg til Norge, og den vinteren tok jeg norskprøven for A2/B1-nivået.
+Morsmålene mine er engelsk og tagalog (jeg lærte dem samtidig), og jeg begynte å lære norsk i januar 2020. Syv måneder senere flyttet jeg til Norge, og den vinteren tok jeg [norskprøven fra Kompetanse Norge](https://www.kompetansenorge.no/prover/norskprove/om-proven/). Jeg fikk "høyere mellomsnivå" (B2) i leseprøven og "mellomsnivå" (B1) i skrive- og lytteprøvene. [Her](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages#Common_reference_levels) finner du hva nivåene betyr.
 
-Jeg fikk B2-nivået i leseprøven og B1 i skrive- og lytteprøvene. [Her](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages#Common_reference_levels) finner du hva nivåene betyr.
+Fire måneder senere [tok jeg norskprøven igjen](/post/erfaring-den-muntlige-norskproven/). Målet mitt var å bestå B2/"høyere mellomsnivå" i alle fire delprøvene, og jeg er glad å si at [jeg klarte det](/post/b2-jeg-klarte-det/). 
 
-I tillegg er jeg rundt B2-nivå på tagalog. Jeg har også lært fransk og tysk i et par år, men har glemt dem for det meste :). 
+I tillegg kan jeg forstå tagalog (et språk fra Filippinene), men jeg snakker det sjelden. Jeg har også lært fransk og tysk i et par år, men jeg har glemt dem for det meste :). 
 {{< /details >}}
 
 {{< details title="Blogginnhold" open=false >}}
-Her finnes de personlige meningene mine, treningsoppgaver, og andre emner som jeg synes er interessante. Jeg skal korrigere feil som jeg finner, ofte med hjelp fra min norske samboer. 
+Her finnes de personlige meningene mine, treningsoppgaver, prosjekter og andre emner som jeg synes er interessante. Jeg skal korrigere feil som jeg finner, noen ganger med hjelp fra min norske samboer. I tillegg bruker jeg ofte [Språkrådet/UiB sin ordbok](https://ordbok.uib.no/perl/ordbok.cgi) og (selvfølgelig) Google Translate som hjelpemidler. 
 
 Jeg lagrer metadata for de fleste innlegg - for eksempel lagrer jeg hvor lenge det tok å skrive, antall ord og alle endringer på innleggene. Denne informasjonen er på innleggsidene, og endringene er [lagret på Github](https://github.com/hgonzal/pa-norsk).  
 {{< /details >}}
