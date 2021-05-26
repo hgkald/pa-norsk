@@ -28,11 +28,11 @@ Jeg lærte etter prøven i desember at lytteprøven var mest vanskelig for meg. 
 ### Norskkurser og språkkafer
 Jeg er ganske heldig at samboeren min er flink med grammatikk og tålmodig med å snakke norsk. Likevel er det ikke nok for å klare B2 så rask som mulig. I erfaringen min lærer jeg best med kurser og/eller en fast struktur.
 
-Siden august i fjor hadde jeg allerede blitt med et norskkurs hos Folkeuniversitetet. Men i januar søkte jeg også på et norskkurs hos Lingu (på grunn av at jeg trodde at jeg ikke kunne fortsette med FU fordi kurset var fullt. Men jeg fått en plass og fant at jeg likte begge to kursene).
+Siden august i fjor hadde jeg allerede blitt med et norskkurs hos Folkeuniversitetet. Men i januar søkte jeg også på et norskkurs hos Lingu (på grunn av at jeg trodde at jeg ikke kunne fortsette med FU fordi kurset var fullt. Men etter hvert fikk jeg en plass og fant at jeg likte begge to kursene).
 
 Samlet er kursene en god kombinasjon for meg, selv om de er ganske dyre. Lingu har mer samtaler, og FU har mer skrive- og lytteoppgaver. Begge fokuserer på grammatikk og handler om temaer som er nyttige for norskprøven, men timene var forskjellige nok fra hverandre å være interessante.  
 
-Likevel trengte meg mer muligheter til å øve. Heldigvis finnes det språkkafeer som er gratis møter for å lære og øve en språk. I koronatiden finnes det ikke noen "fysisk" språkkafer i Oslo, men man kan finne mange på nett.
+Likevel ønsket jeg mer muligheter for å øve. Heldigvis finnes det språkkafeer som er gratis møter for å lære og øve en språk. I koronatiden finnes det ikke noen "fysisk" språkkafeer i Oslo, men man kan finne mange på nett.
 
 Derfor var denne timeplanen min i de siste ukene:
 
@@ -42,7 +42,7 @@ Derfor var denne timeplanen min i de siste ukene:
 | **13:30** Kafe (1t) | **17:00** Kafe (1t)   | **17:30** Kurs (3t)  | **17:30** Kafe (1t) |     |      |
 | **17:30** Kurs (3h) | **18:00** Kafe (1,5t) |     |      |     |     |
 
-Samlet gjorde jeg 23 timer per uke i det siste ukene bare for å lære norsk. I tillegg så jeg på norsk TV, hørte på [NRK Radio](https://radio.nrk.no/) og podkaster, så på [Karenses YouTube videoer](https://www.youtube.com/channel/UCbrUYR892qBNQyY3DEqfTBg) og bestemte at vi vil snakke bare norsk i hjemmet (som var 90% vellykket).
+Samlet gjorde jeg 23 timer per uke i det siste ukene bare for å lære norsk. I tillegg så jeg på norsk TV, hørte på [NRK Radio](https://radio.nrk.no/) og podkaster, så på [Karenses YouTube videoer](https://www.youtube.com/channel/UCbrUYR892qBNQyY3DEqfTBg) og bestemte at jeg vil snakke bare norsk i hjemmet (som var 90% vellykket).
 
 Var det nok for å klare B2? Jeg må vent en måned for å finne ut...
 
@@ -50,7 +50,7 @@ Var det nok for å klare B2? Jeg må vent en måned for å finne ut...
 
 Men hvordan var prøven selv?
 
-Det tok mindre enn én time for å gjennomføre hele prøven, og det var én annen prøvedeltaker i rommet. Det var også en (eller kanskje to?) sensurer som vurderer deg og en proktor som stilte spørsmålene.
+Det tok mindre enn én time for å gjennomføre hele prøven, og det var én annen prøvedeltaker i rommet. Det var også en (eller kanskje to?) sensur som vurderer deg og en proktor som stilte spørsmålene.
 
 Vi fikk tre oppgaver å snakke om:
 
@@ -58,21 +58,21 @@ Vi fikk tre oppgaver å snakke om:
     - Synes du at det er nødvendig å få utdanning for å skaffe seg en god jobb? (mitt)
     - Synes du at det er en god idé å ha venner fra forskjellige kulturer? (den andre deltakers)
 2.  Samtale med den andre deltakeren (B1/B2-nivå):
-    - Snakke om teknologi og fordeler og ulemper av nye teknologiske hjelpemidler.
-3.  Argumentere for eller mot en påstand (B2-nivå). Du får et par minutter for å skrive ned notater før du svarer:
+    - Snakk om teknologi og fordeler og ulemper av nye teknologiske hjelpemidler.
+3.  Argumentasjon for eller mot en påstand (B2-nivå). Du får et par minutter for å skrive ned notater før du svarer:
     - Ansatte bør ikke få lønn når de er borte fra jobb på grunn av sykdom. (mitt)
         - Oppfølgingsspørsmål:
-            - I andre land får man ikke lønn når man er syk. Hva er fordeler og ulemper av det?
+            - I andre land får man ikke lønn når man er syk. Hva er fordeler og ulemper av dette?
             - Hva slags betydning(?) har jobb i tillegg til penger?
     - De eldre bør bo med familie i hjemmet. (den andre deltakers)
         - Jeg har glemt oppfølgingsspørsmålene!
 
-De uttrykkene overfor er ikke nøyaktige, fordi vi kunne ikke ta med oss hva vi hadde skrevet ned eller ta på prøven.
+Uttrykkene overfor er ikke nøyaktige, fordi vi kunne ikke ta med oss det vi hadde skrevet ned i løpet av prøven.
 
 Jeg synes at jeg klarte de første to oppgavene gode nok. Men den siste oppgaven var mer utfordrende, og jeg forstod ikke helt det siste oppfølgingsspørsmålet (men proktoren presisert litt for meg og jeg kunne gi et svar). Denne oppgaven var mest viktig for å klare B2.
 
 ## Siste ord
 
-Det var nervepirrende, men jeg er glad at jeg er ferdig med denne prøven (for nå). Neste uke har jeg den lytte- og skriveprøvene. Jeg må bare skrive mer og se på TV litt for å forberede for det!
+Det var nervepirrende, men jeg er glad at jeg er ferdig med denne prøven (for nå). Neste uke vil jeg ta lytte- og skriveprøvene. Jeg må bare skrive mer og se på TV litt for å forberede for det!
 
-Jeg føler meg mer selvsikker på norsk, og nå mener jeg er en god tid å finne en jobb eller å melde meg som frivillig. Jeg vil se hva slags muligheter finnes nå, og jeg har angst for å søke på jobber nå på grunn av koronaviruset. Det er ganske utfordrende og skremmende. Men jeg tror at det kommer til å bli bedre snart, og i det minste har jeg bedre muligheter fordi jeg kan norsk litt bedre nå!
+Jeg føler meg mer selvsikker på norsk, og nå mener jeg er en god tid å finne en jobb eller å melde meg som frivillig. Jeg vil se hva slags muligheter finnes nå, og jeg har angst for å søke på jobber nå på grunn av koronaviruset. Det er litt skremmende for meg. Men jeg tror at det kommer til å bli bedre snart, og i det minste vil jeg ha kanskje bedre muligheter, fordi jeg kan norsk litt bedre nå!
