@@ -14,7 +14,7 @@ kategorier:
 
 *Denne oppgaven var å høre på en lydfil og skrive en sammenhengende tekst om den. Lydfilen var et intervju med en siviløkonom som fikk anledning til å jobbe en periode i Frankrike. Jeg hørte på lydfilen to ganger uten pauser og skrev notater samtidig.*
 
-*[Den første versjonen](https://github.com/hgonzal/pa-norsk/blob/c76df7ad74ad41bf9ad66af95792870e40de3f69/content/post/siviliokonom-i-frankrike.md) ble skrevet uten hjelpemidler og med en 45 minutters tidsbegrensning. Jeg skrev dette ganske sakte og kunne ikke redigere filen innen tidsgrensen, og dette er gjenspeilt i feilene i den første versjonen.*
+*[Den første versjonen](https://github.com/hgkald/pa-norsk/blob/c76df7ad74ad41bf9ad66af95792870e40de3f69/content/post/siviliokonom-i-frankrike.md) ble skrevet uten hjelpemidler og med en 45 minutters tidsbegrensning. Jeg skrev dette ganske sakte og kunne ikke redigere filen innen tidsgrensen, og dette er gjenspeilt i feilene i den første versjonen.*
 
 I intervjuet hører vi fra siviløkonomen Anna Silje Andersen om livet hennes i Frankrike og meningene hennes om fransk næringsliv. Hun sammenligner også forskjellene mellom å leve i Norge og Frankrike, spesielt for kvinner.
 

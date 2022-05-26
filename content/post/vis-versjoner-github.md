@@ -25,7 +25,7 @@ En sterk fordel av git er at det er veldig tydelig og enkel å se endringene mel
 ## Så hvordan brukes det?
 Jeg vil beskrive hvordan å klare det for hver innlegg her. For eksempel kan vi se på innlegget som heter [*Barn og sosiale media*](/post/barn-og-sosiale-medier/).
 
-På slutt av innlegget er en lenk for å vise [*"alle versjoner"*](https://github.com/hgonzal/pa-norsk/commits/master/content/post/barn-og-sosiale-medier.md) (denne innlegg har [en lenke](https://github.com/hgonzal/pa-norsk/commits/master/content/post/vis-versjoner-github.md) også). Når du trykke på det, ser du en liste av versjonene, eller *commits* som git kaller dem:
+På slutt av innlegget er en lenk for å vise [*"alle versjoner"*](https://github.com/hgkald/pa-norsk/commits/master/content/post/barn-og-sosiale-medier.md) (denne innlegg har [en lenke](https://github.com/hgkald/pa-norsk/commits/master/content/post/vis-versjoner-github.md) også). Når du trykke på det, ser du en liste av versjonene, eller *commits* som git kaller dem:
 
 ![Liste av versjoner](/img/barn-innlegg-versjoner.png)
 

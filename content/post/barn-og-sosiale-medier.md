@@ -18,7 +18,7 @@ kategorier:
 ## Innledning
 Dette er en skriveoppgave fra Kompetanse Norge til den skriftlige norskprøven for B1-B2. De anbefaler at man bruker mellom 250 og 350 ord.
 
-[Den første versjonen](https://github.com/hgonzal/pa-norsk/blob/84b6523802837df4b111fab4737550753ee6e4a0/content/post/barn-og-sosiale-medier.md) av teksten min nedenfor ble skrevet på 57 minutter uten bruk av hjelpemidler. Teksten ble så [redigert etterpå](https://github.com/hgonzal/pa-norsk/commits/master/content/post/barn-og-sosiale-medier.md). 
+[Den første versjonen](https://github.com/hgkald/pa-norsk/blob/84b6523802837df4b111fab4737550753ee6e4a0/content/post/barn-og-sosiale-medier.md) av teksten min nedenfor ble skrevet på 57 minutter uten bruk av hjelpemidler. Teksten ble så [redigert etterpå](https://github.com/hgonzal/pa-norsk/commits/master/content/post/barn-og-sosiale-medier.md). 
 
 ## Oppgave
 Bør man begrense bruken av sosiale medier for barn?

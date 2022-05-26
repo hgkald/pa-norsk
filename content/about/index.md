@@ -18,7 +18,7 @@ I tillegg kan jeg forstå tagalog (et språk fra Filippinene), men jeg snakker d
 {{< details title="Blogginnhold" open=false >}}
 Her finnes de personlige meningene mine, treningsoppgaver, prosjekter og andre emner som jeg synes er interessante. Jeg skal korrigere feil som jeg finner, noen ganger med hjelp fra min norske samboer. I tillegg bruker jeg ofte [Språkrådet/UiB sin ordbok](https://ordbok.uib.no/perl/ordbok.cgi) og (selvfølgelig) Google Translate som hjelpemidler. 
 
-Jeg lagrer metadata for de fleste innlegg - for eksempel lagrer jeg hvor lenge det tok å skrive, antall ord og alle endringer på innleggene. Denne informasjonen er på innleggsidene, og endringene er [lagret på Github](https://github.com/hgonzal/pa-norsk).  
+Jeg lagrer metadata for de fleste innlegg - for eksempel lagrer jeg hvor lenge det tok å skrive, antall ord og alle endringer på innleggene. Denne informasjonen er på innleggsidene, og endringene er [lagret på Github](https://github.com/hgkald/pa-norsk).  
 {{< /details >}}
 
 {{< details title="Personvern" open=false >}}
