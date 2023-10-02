@@ -4,7 +4,7 @@ date: 2021-04-24T23:26:05+02:00
 draft: true
 firstversion:
   time: 1t 25min
-  githash:
+  githash: 540fe66be5dca3e08d4e835b97c4ea54a1d33b7d
 tags:
 - Norskprøven
 - arbeidsmarkedet

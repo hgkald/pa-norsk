@@ -29,12 +29,6 @@ Merk at siden bruker Google Analytics for å samle grunnleggende informasjon. Je
 Siden bruker dessuten kommentarer. Det er ikke nødvendig å bruke det, og kommentaren din kan bli slettet når du vil.
 {{< /details >}}
 
-{{< details title="Kommentarpolicy" open=false >}}
-Jeg ser fram til kommentarene deres, og trenger bare et navn eller alias for å poste her. Vennligst vær høflig og saklig. Du kan også sende meg en e-post på adressen under "Kontakt". 
-
-Merk at jeg vurderer hver kommentar før den blir postet til siden, og det kan ta en liten stund før den blir synlig. Jeg forbeholder meg retten til å nekte å publisere kommentarer. 
-{{< /details >}}
-
 {{< details title="Kontakt og diverse" open=false >}}
 Du kan sende meg en melding på:
 

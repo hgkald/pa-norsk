@@ -24,7 +24,7 @@
             "respectDoNotTrack": true,
             "useSessionStorage": true
         },
-	"instagram": {
+        "instagram": {
             "disable": false,
             "simple": true
         },
@@ -74,7 +74,7 @@
     "params": {
         "Title": "Hana på norsk",
         "Tagline": "",
-	"Description": "Et sted å øve skriflig norsk",
+        "Description": "Et sted å øve skriflig norsk",
         "Author": "Hana",
         "DateForm": "02.01.2006",
         "mainSections": [
@@ -85,13 +85,6 @@
 	    "PostUrl": "https://github.com/hgkald/pa-norsk/commits/master/content/post/",
             "Head": "master"
         },
-	"disableFonts": false,
-        "staticman": {
-	    "api": "https://hana-pa-norsk-comments.herokuapp.com/v2/entry/hgkald/pa-norsk-comments/main/comments",
-            "recaptcha": {
-                "sitekey": "6Lcja2kaAAAAAFtsE6TFkOdKiP2TQQXvcT_0r3Qg",
-                "secret": "bmX4rEMtbcUfO8CybBs3lg82wSCcG+Actjjkl45NFxe0kydSqMRNBcUmizNi40k8V+se1XD86on3eRqAfWBl031oYTB//rmGQkNjUt5ZR6Air9Q1u7kJDBsqLTNtlRExym7s0Aoli2wi3JfKrirKFecffEupPd38lgEcan3zWJFk2mYqEDvXnHDCSB3/R4u9DSzbx/6xLuCx0iwDuPbGrES/fOkQwzIwjCEd29YKRUk/aZdTNA4rdyb9yIwF5IIkm82ACEWWhNnmnvscvux04q6jejU0ym9INm5+2GeggciWzlwJUbC/vEjz61lBkjOBQS/eEaFru9UtZZX/TgGCBg=="
-	    }
-        }
+	"disableFonts": false
     }
 }
